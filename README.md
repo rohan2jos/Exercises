@@ -2,13 +2,13 @@
 Contains exercises and examples
 
 
-## Question: Python provides a built-in function called len that returns the length of a string, so
+#### Question: Python provides a built-in function called len that returns the length of a string, so
 the value of len('allen') is 5.
 Write a function named right_justify that takes a string named s as a parameter and prints the
 string with enough leading spaces so that the last letter of the string is in column 70 of the display.
-## Solution: https://github.com/rohan2jos/Exercises/blob/master/right_justify.py
+#### Solution: https://github.com/rohan2jos/Exercises/blob/master/right_justify.py
 
-## Question: A function object is a value you can assign to a variable or pass as an argument. For
+#### Question: A function object is a value you can assign to a variable or pass as an argument. For
 example, do_twice is a function that takes a function object as an argument and calls it twice:
 def do_twice(f):
 f()
